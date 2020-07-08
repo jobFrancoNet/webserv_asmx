@@ -5,3 +5,4 @@
     <li> Scaricarvi il progetto in Visual Studio che porta su in http i metodi esposti dal servizio</li>
   <li>Si potrà interagire e vedere nel file <b>startservice.py</b> come richiamare da Python i metodi esposti e programmati in tecnologia .NET</li>
   </ol>
+<a href='https://drive.google.com/file/d/1UoJ3bA21FTnsB3W3vfPVLqit7ffzoC0l/view?usp=sharing'>LINK DOWNLOAD PROGETTO LABORATORIO</a>
